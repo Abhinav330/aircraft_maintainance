@@ -358,8 +358,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the aviation industry**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/aircraft-maintenance-analyzer?style=social)]((https://github.com/Abhinav330/aircraft_maintainance))
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/aircraft-maintenance-analyzer?style=social)](https://github.com/Abhinav330/aircraft_maintainance)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/aircraft-maintenance-analyzer)](https://github.com/Abhinav330/aircraft_maintainance)
+[![GitHub stars](https://img.shields.io/github/stars/Abhinav330/aircraft_maintainance?style=social)]((https://github.com/Abhinav330/aircraft_maintainance))
+[![GitHub forks](https://img.shields.io/github/forks/Abhinav330/aircraft_maintainance?style=social)](https://github.com/Abhinav330/aircraft_maintainance)
+[![GitHub issues](https://img.shields.io/github/issues/Abhinav330/aircraft_maintainance)](https://github.com/Abhinav330/aircraft_maintainance)
 
 </div>
+
