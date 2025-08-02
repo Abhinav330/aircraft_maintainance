@@ -1,0 +1,23 @@
+# Core Dependencies
+fastapi
+uvicorn
+python-multipart
+openai
+pymongo
+python-dotenv
+pillow
+pydantic
+httpx
+python-jose
+passlib
+reportlab
+jinja2
+motor
+# PDF Generation
+reportlab
+# Development Dependencies
+pytest
+pytest-asyncio
+black
+isort
+flake8
